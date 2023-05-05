@@ -1,0 +1,14 @@
+.card-container{
+    height: 250px;
+    width: 200px;
+    border: 2px solid aqua;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-container > img {
+    width: 80%;
+}
+
